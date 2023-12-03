@@ -1,4 +1,7 @@
-<p align="center"><img width="728" height="90" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif"> <br> <b> <a href="https://hackers.ge"> H A C K E R S
+  <p align="center">
+<a href="https://khetaguridimitri.github.io" target="_blank" >
+  <img style="max-width: 99%;" src="https://i.giphy.com/media/bhyfesK1i5Bm4pOfXj/giphy.webp" alt="Binance Crypto Drops">
+</a>
 
 # <p align="center"> 2 EXE in 1 exe >_ Celesty File Binder</p>
 
